@@ -216,7 +216,7 @@ export default function Home() {
         <section id="contact" className="text-center py-10">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4 flex justify-center items-center gap-2">✉️ Contact</h2>
           <button
-            onClick={() => (window.location = "mailto:umamaheswaris9074@gmail.com")}
+            onClick={() => (window.location.href = "mailto:umamaheswaris9074@gmail.com")}
             className="bg-teal-500 hover:bg-teal-400 text-white rounded-md px-8 py-3 font-semibold shadow-md border border-teal-600 transition"
           >
             Email Me
