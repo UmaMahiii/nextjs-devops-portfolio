@@ -152,8 +152,8 @@ minikube delete
 ### 👩‍💻 Author
 **Uma Maheswari S  
 Trivandrum, Kerala**
-**LinkedIn Profile** (Please replace with your actual LinkedIn URL)
-**GitHub Profile** (Please replace with your actual GitHub URL)
+**LinkedIn Profile:** [https://www.linkedin.com/in/umamahiii/](https://www.linkedin.com/in/umamahiii/)  
+**GitHub Profile:** [https://github.com/UmaMahiii](https://github.com/UmaMahiii)
 
 ### 🧾 Summary of Technologies
 **Tool**	          Purpose
